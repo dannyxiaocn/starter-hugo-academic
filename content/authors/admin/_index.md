@@ -33,7 +33,7 @@ education:
       year: 2022
     - course: BEng in Computer Science
       institution: Harbin Institute of Technology
-      year: 2018
+      year: ""
 email: bochengxiao@icloud.com
 superuser: true
 highlight_name: true
