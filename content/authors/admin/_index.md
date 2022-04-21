@@ -1,7 +1,7 @@
 ---
 title: Bocheng Xiao
 role: HIT Senior Student, Incoming PhD Student of HKU
-avatar_filename: wechatimg132296.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Multimodal AI and MLSys
 interests:
   - Artificial Intelligence
