@@ -1,6 +1,7 @@
 ---
 title: Bocheng Xiao
 role: HIT Senior Student, Incoming PhD Student of HKU
+avatar_filename: wechatimg132296.jpeg
 bio: My research interests include Multimodal AI and MLSys
 interests:
   - Artificial Intelligence
@@ -27,22 +28,14 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Computer Science
+      institution: The Hong Kong University
+      year: 2022
+    - course: BEng in Computer Science
+      institution: Harbin Institute of Technology
+      year: 2018
+email: bochengxiao@icloud.com
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am currently a final-year undergraduate student in [Harbin Institute of Technology](https://www.hit.edu.cn/). My Major is Computer Science (sub-major as Data Science and Big Data Tech). I have tried diverse research topics in the past undergrad college life and I am so honored to have the chance to work with these outstanding scholars, including working on Macaque’s Decision Behavioral Data (Computational Neuroscience), supervised by Dr. [Aaron Sampson](https://scholar.google.com/citations?user=jy8NxFYAAAAJ&hl=en) and Prof. [Ernst Niebur](https://krieger.jhu.edu/mbi/directory/ernst-niebur/) in [Zanvyl Krieger Mind/Brain Institute](https://krieger.jhu.edu/mbi/), [Johns Hopkins University](https://www.jhu.edu/).
